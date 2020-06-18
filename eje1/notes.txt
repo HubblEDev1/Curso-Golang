@@ -1,0 +1,32 @@
+Caracteristicas.
+Hereda el core de c++
+Fue pensado para aprovechar los ultimos
+avances de tecnologia, pudiendo ejejutar
+diversos procesos al mismo tiempo.
+
+Ventajas.
+Las funciones pueden devolver diversos 
+valores.
+Se pueden desarrollar en Go tanto instruciones
+sincronicas como asincronicas.
+Go no es orientado a objetos.
+
+
+Operadores a nivel bit.
+a=10
+b=3
+
+a & b
+    1010
+    0011
+r   0010
+a | b
+    1011
+a ^ b
+    1001
+a &^ b
+
+a:8 
+a<<3   64
+a>>3   1
+**************************************
